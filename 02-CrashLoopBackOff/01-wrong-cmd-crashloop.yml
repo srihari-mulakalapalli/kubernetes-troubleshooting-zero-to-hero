@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: crashlooplearning
-        image: abhishekf5/crashlooptest:v1
+        image: srihari25/crashlooptest:v3
         ports:
         - containerPort: 8000
